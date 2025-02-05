@@ -40,7 +40,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Gong007go&left_color=green&right_color=red)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/Wishoryouoraorniceorday =First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <!---
