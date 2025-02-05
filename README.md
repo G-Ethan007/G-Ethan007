@@ -40,8 +40,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Ethan007&layout=compact)](https://github.com/G-Ethan007)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/G-Ethan007&left_color=green&right_color=red)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Wish+you+a+nice+day;Happy+to+see+you)](https://git.io/typing-svg)
 <!---
 G-Ethan007/G-Ethan007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
